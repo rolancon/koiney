@@ -52,3 +52,6 @@ Koiney is an alternative way to transliterate [Hellenistic Greek](https://en.wik
 |  |	νκ | nqk |
 |  |	νξ | nqx |
 |  |	νχ | nqch |
+
+The smooth breathing at the beginning of a word, the rough breathing written over the letter Rho and accent marks 
+(acute, grave and circumflex accents) are not transliterated.
