@@ -28,6 +28,7 @@ Koiney is an alternative way to transliterate [Hellenistic Greek](https://en.wik
 | Chi |	χ | ch |
 | Psi |	ψ | ps |
 | Omega |	ω | ow |
+| | ῾ | h |
 
 | Diphthong | Koine Greek | Koiney (Latinized) |
 | --- | --- | --- |
