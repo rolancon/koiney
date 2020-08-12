@@ -1,2 +1,2 @@
-# koiney
-Hellenistic Greek transliteration
+# Koiney
+
