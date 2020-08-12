@@ -4,40 +4,42 @@ Koiney is an alternative way to transliterate [Hellenistic Greek](https://en.wik
 
 | Letter | Koine Greek | Koiney (Latinized) |
 | --- | --- | --- |
-| Alpha |	α 	
-| Beta |	β 
-| Gamma |	γ 
-| Delta |	δ 
-| Epsilon |	ε 
-| Zeta |	ζ 
-| Eta |	η 
-| Theta |	θ 
-| Iota |	ι 
-| Kappa |	κ 
-| Lambda |	λ 
-| Mu |	μ 
-| Nu |	ν 
-| Xi |	ξ 
-| Omicron |	ο 
-| Pi |	π 
-| Rho |	ρ 
-| Sigma |	σ (-σ-/-σσ-) 
-| Tau |	τ 
-| Upsilon |	υ 
-| Phi |	φ 
-| Chi |	χ 
-| Psi |	ψ 
-| Omega |	ω 
+| Alpha |	α | a |
+| Beta |	β | b |
+| Gamma |	γ | g |
+| Delta |	δ | d |
+| Epsilon |	ε | e |
+| Zeta |	ζ | z |
+| Eta |	η | ey |
+| Theta |	θ | th |
+| Iota |	ι | i |
+| Kappa |	κ | k |
+| Lambda |	λ | l |
+| Mu |	μ | m |
+| Nu |	ν | n |
+| Xi |	ξ | x |
+| Omicron |	ο | o |
+| Pi |	π | p |
+| Rho |	ρ | r |
+| Sigma |	σ | s | 
+| Tau |	τ | t |
+| Upsilon |	υ | u |
+| Phi |	φ | f |
+| Chi |	χ | x |
+| Psi |	ψ | ch |
+| Omega |	ω | ow |
 
 | Diphthong | Koine Greek | Koiney (Latinized) |
 | --- | --- | --- |
-| . |	αι 
-| . |	ει 
-| . |	οι 
-| . |	υι 
-| . |	αυ 
-| . |	ευ 
-| . |	ου 
-| . |	αι (ᾳ) 
-| . |	ηι (ῃ) 
-| . |	ωι (ῳ)
+|  |	ει | ei |
+|  |	οι | oi |
+|  |	υι | ui |
+|  |	αυ | av |
+|  |	ευ | ev |
+|  |	ου | ou |
+|  |	αι (ᾳ) | ai |
+|  |	ηι (ῃ) | e'y |
+|  |	ωι (ῳ)| oy |
+
+| Special | Koine Greek | Koiney (Latinized) |
+| --- | --- | --- |
