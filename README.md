@@ -33,14 +33,14 @@ Koiney is an alternative way to transliterate [Hellenistic Greek](https://en.wik
 | Diphthong | Koine Greek | Koiney (Latinized) |
 | --- | --- | --- |
 |  |	ει | ei |
-|  |	οι | oi |
-|  |	υι | ui |
+|  |	οι | oy |
+|  |	υι | uy |
 |  |	αυ | av |
 |  |	ευ | ev |
 |  |	ου | ou |
-|  |	αι (ᾳ) | ai |
+|  |	αι (ᾳ) | ay |
 |  |	ηι (ῃ) | e'y |
-|  |	ωι (ῳ)| oy |
+|  |	ωι (ῳ)| o'y |
 
 | Special | Koine Greek | Koiney (Latinized) |
 | --- | --- | --- |
